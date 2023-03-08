@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="233aacf4-6dc4-4d85-ba0b-d2f76572d9c5" name="Changes" comment="Creating a project">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DateTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WorkWithFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ListOfMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListOfMaps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="de1e1dc2-532f-45a8-b3a1-58aaf0ae3623" />
+        <option name="url" value="https://github.com/ElinaGorniker/Java_for_Testers_Additional.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,10 +83,25 @@
       <option name="project" value="LOCAL" />
       <updated>1678270348167</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creating a project">
+      <created>1678273990972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678273990972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creating a project">
+      <created>1678274023743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678274023743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arrays and Maps" />
     <MESSAGE value="Creating a project" />
     <option name="LAST_COMMIT_MESSAGE" value="Creating a project" />
   </component>
